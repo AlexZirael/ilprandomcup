@@ -2,4 +2,4 @@
 Pagina ILP Random Cup
 
 
-![Banner](banner.png)
+![Banner](/images/banner.png)
